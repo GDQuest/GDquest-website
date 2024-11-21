@@ -24,6 +24,8 @@ Every day, you'll get an email with carefully selected tutorials and guides to g
 
 {{< mailing-signup-get-started >}}
 
+{{< mailing-signup-newsletter-switcher >}}
+
 ## The problem with most tutorials
 
 There's a ton of free tutorials out there, but they often just teach you one trick in isolation and rarely go past beginner-level.
